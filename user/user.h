@@ -1,3 +1,6 @@
+// Added to fix uint error 
+typedef unsigned int uint;
+
 struct stat;
 
 // system calls
